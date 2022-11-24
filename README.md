@@ -5,6 +5,6 @@ _Freshly brewed digiridoos, served just for you on a brand spankin' new plastic 
 
 <br><br>
 #
-> For cross-platform testing, look into applets, maybe. Or JSP. Or MySQL. I _definitely_ know what I'm doing.
+> For cross-platform testing, look into applets, maybe. Or JSP. Or Tomcat. I _definitely_ know what I'm doing.
 
 
